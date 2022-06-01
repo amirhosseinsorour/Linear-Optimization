@@ -32,3 +32,51 @@ class VisualMethod(Scene):
         y_axis.set_color(WHITE)
         y_axis.rotate(PI / 2)
         self.play(Write(x_axis), Write(y_axis))
+
+        # Writing Objective Function
+        obj_text = Tex("\\textit{Objective Function:}")
+        obj_text.scale(0.85)
+        obj_text.move_to([4.35, 3, 0])
+        self.play(Write(obj_text))
+        self.wait(0.2)
+
+        obj_formula = Tex(
+            "{\\small $max \  z = 3x_1 + 2x_2$}",
+        )
+        obj_formula.move_to([4.5, 2.5, 0])
+        self.play(Write(obj_formula))
+        self.wait(1)
+
+        
+        # Writing Constraints
+        subject_text = Tex("\\textit{Subject to:}")
+        subject_text.scale(0.85)
+        subject_text.move_to([4.35, 1.7, 0])
+        self.play(Write(subject_text))
+        self.wait(0.2)
+
+        const1_text = Tex("$2x_1 + x_2 \le 10$")
+        const1_text.scale(0.85)
+        const1_text.move_to([4.5, 1.2, 0])
+        self.play(Write(const1_text))
+        self.wait(0.2)
+
+        const2_text = Tex("$x_1 + x_2 \le 8$")
+        const2_text.scale(0.85)
+        const2_text.move_to([4.5, 0.7, 0])
+        self.play(Write(const2_text))
+        self.wait(0.2)
+
+        const3_text = Tex("$x_1 \le 4$")
+        const3_text.scale(0.85)
+        const3_text.move_to([4.5, 0.2, 0])
+        self.play(Write(const3_text))
+        self.wait(0.2)
+
+        const4_text = Tex("$x_1, x_2 \ge 0$")
+        const4_text.scale(0.85)
+        const4_text.move_to([4.5, -0.3, 0])
+        self.play(Write(const4_text))
+        self.wait(0.2)
+
+
