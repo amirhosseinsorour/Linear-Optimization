@@ -68,7 +68,7 @@ class GraphicalMethod(Scene):
         self.play(Write(subject), run_time=1.8)
         self.wait(1)
         self.play(Write(creators), run_time=0.7)
-        self.wait(3)
+        self.wait(2.5)
         self.play(FadeOut(VGroup(title, subject)))
         self.wait(1)
 
@@ -247,7 +247,7 @@ class GraphicalMethod(Scene):
         obj_dot2.set_color(YELLOW_C)
         obj2 = VGroup(obj_line2, obj_dot2)
         self.play(
-            FadeTransform(obj1, obj2),
+            ReplacementTransform(obj1, obj2),
             run_time=0.8
         )
         self.wait(2)
@@ -275,7 +275,7 @@ class GraphicalMethod(Scene):
         obj_dot3.set_color(YELLOW_C)
         obj3 = VGroup(obj_line3, obj_dot3)
         self.play(
-            FadeTransform(obj2, obj3),
+            ReplacementTransform(obj2, obj3),
             run_time=0.8
         )
         self.wait(2)
@@ -303,7 +303,7 @@ class GraphicalMethod(Scene):
         obj_dot4.set_color(YELLOW_C)
         obj4 = VGroup(obj_line4, obj_dot4)
         self.play(
-            FadeTransform(obj3, obj4),
+            ReplacementTransform(obj3, obj4),
             run_time=0.8
         )
         self.wait(2)
@@ -331,7 +331,7 @@ class GraphicalMethod(Scene):
         obj_dot5.set_color(YELLOW_C)
         obj5 = VGroup(obj_line5, obj_dot5)
         self.play(
-            FadeTransform(obj4, obj5),
+            ReplacementTransform(obj4, obj5),
             run_time=0.8
         )
         self.wait(2)
@@ -347,6 +347,7 @@ class GraphicalMethod(Scene):
         self.wait(2)
 
         
+        # Writing Optimal Solution
         optimal_x1_text = Tex("$x_1^* = 0$")
         optimal_x2_text = Tex("$x_2^* = 7$")
         optimal_z_text = Tex("$z^* = 35$")
@@ -364,10 +365,10 @@ class GraphicalMethod(Scene):
         )
         self.wait(2)
 
-        box = Rectangle(height=2.5, width=2, stroke_color=TEAL_A)
+        box = Rectangle(height=2.5, width=2, stroke_color=YELLOW_A)
         box.move_to(optimal_solution_text.get_center())
         optimal_solution_title = Tex("$Optimal \  Solution:$")
-        optimal_solution_title.set_color(MAROON_A)
+        optimal_solution_title.set_color(YELLOW_A)
         optimal_solution_title.scale(0.6)
         optimal_solution_title.move_to([0.5, 2.8, 0])
         self.play(Write(VGroup(box, optimal_solution_title)))
