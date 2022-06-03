@@ -1,6 +1,4 @@
-from re import M
 from manim import *
-# from manimlib.imports import *
 
 x_center = -6
 y_center = -3
