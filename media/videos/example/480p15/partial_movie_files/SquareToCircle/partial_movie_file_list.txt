@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/example/480p15/partial_movie_files/SquareToCircle/3163782288_1575432721_223132457.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/example/480p15/partial_movie_files/SquareToCircle/2201830969_855376541_3859052213.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/example/480p15/partial_movie_files/SquareToCircle/2201830969_2805668294_904510159.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/example/480p15/partial_movie_files/SquareToCircle/2201830969_855376541_2994255190.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/example/480p15/partial_movie_files/SquareToCircle/2201830969_730324066_3343211993.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/example/480p15/partial_movie_files/SquareToCircle/2201830969_855376541_4276529307.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/example/480p15/partial_movie_files/SquareToCircle/2201830969_1953720634_479705717.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/example/480p15/partial_movie_files/SquareToCircle/2201830969_1360661681_486468090.mp4'

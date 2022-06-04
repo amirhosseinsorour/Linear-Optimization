@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/lo/1080p60/partial_movie_files/VisualMethod/2724823860_1873986414_223132457.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/lo/1080p60/partial_movie_files/VisualMethod/1164547788_3375341780_3859052213.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/lo/1080p60/partial_movie_files/VisualMethod/1164547788_2704206902_904510159.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/lo/1080p60/partial_movie_files/VisualMethod/1164547788_3375341780_2994255190.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/lo/1080p60/partial_movie_files/VisualMethod/1164547788_3392453284_3343211993.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/lo/1080p60/partial_movie_files/VisualMethod/1164547788_3375341780_4276529307.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/lo/1080p60/partial_movie_files/VisualMethod/1164547788_2300736020_479705717.mp4'
-file 'file:D:/AUT Courses/Linear Optimization/Project/media/videos/lo/1080p60/partial_movie_files/VisualMethod/1164547788_390647440_486468090.mp4'

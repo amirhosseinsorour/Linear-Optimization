@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=latex 2022.5.30)  30 MAY 2022 19:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=latex 2022.5.30)  4 JUN 2022 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -334,16 +334,17 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 Preview: Tightpage 0 0 0 0
-[1] (D:\AUT Courses\Linear Optimization\Project\media\Tex\8d77669dd226c49e.aux)
- ) 
+[1]
+(D:\AUT Courses\Linear Optimization\Project\Code\media\Tex\8d77669dd226c49e.aux
+) ) 
 Here is how much of TeX's memory you used:
  8257 strings out of 478583
- 127984 string characters out of 2854159
+ 128014 string characters out of 2854159
  463741 words of memory out of 3000000
  26343 multiletter control sequences out of 15000+600000
  478062 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,2n,77p,1025b,170s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on "D:\AUT Courses\Linear Optimization\Project\media\Tex\8d77669
-dd226c49e.dvi" (1 page, 1728 bytes).
+Output written on "D:\AUT Courses\Linear Optimization\Project\Code\media\Tex\8d
+77669dd226c49e.dvi" (1 page, 1728 bytes).

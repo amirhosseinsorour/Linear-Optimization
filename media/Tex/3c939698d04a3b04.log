@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=latex 2022.5.30)  1 JUN 2022 18:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=latex 2022.5.30)  4 JUN 2022 10:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -384,16 +384,17 @@ LaTeX Font Info:    Trying to load font information for U+wasy on input line 27
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 Preview: Tightpage 0 0 0 0
-[1] (D:\AUT Courses\Linear Optimization\Project\media\Tex\3c939698d04a3b04.aux)
- ) 
+[1]
+(D:\AUT Courses\Linear Optimization\Project\Code\media\Tex\3c939698d04a3b04.aux
+) ) 
 Here is how much of TeX's memory you used:
  8465 strings out of 478583
- 132248 string characters out of 2854159
+ 132278 string characters out of 2854159
  463741 words of memory out of 3000000
  26491 multiletter control sequences out of 15000+600000
  491470 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,4n,77p,1025b,272s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on "D:\AUT Courses\Linear Optimization\Project\media\Tex\3c93969
-8d04a3b04.dvi" (1 page, 1860 bytes).
+Output written on "D:\AUT Courses\Linear Optimization\Project\Code\media\Tex\3c
+939698d04a3b04.dvi" (1 page, 1860 bytes).
