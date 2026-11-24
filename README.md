@@ -51,7 +51,7 @@ The five vertices of the feasible region give the following objective values:
 | $(50/7, 24/7)$ | $170/7$ |
 | $(0, 7)$ | $35$ |
 
-The optimal solution is **$x_1^* = 0$, $x_2^* = 7$, with $z^* = 35$**.
+The optimal solution is $x_1^* = 0$, $x_2^* = 7$, with $z^* = 35$.
 
 ## Repository contents
 
